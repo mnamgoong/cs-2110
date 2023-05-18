@@ -24,3 +24,12 @@ An introduction to basic computer hardware, machine language, assembly language,
 **09:** Dynamic Memory
 
 **10:** Malloc Implementation
+
+## Timed Lab
+**01:** Arithmetic Logic Units
+
+**02:** LC-3 Datapath Tracing
+
+**03:** Subroutines and Calling Convention
+
+**04:** C and Dynamic Memory Allocation
